@@ -1,0 +1,72 @@
+-----------------------------------------------------------------------------------------
+Output for  sample-c
+-----------------------------------------------------------------------------------------
+total number of distinct words= 47
+popular_threshold_word= 3
+common_threshold_l_word= 22
+common_threshold_u_word= 25
+rare_threshold_word= 44
+
+Popular Words
++------+---------+------+
+|Rank|Frequency|Word  |
++------+---------+------+
+1    6    applications
+2    5    kubernetes
+3    4    system
++------+---------+------+
+
+Common Word
++------+---------+------+
+|Rank|Frequency|Word  |
++------+---------+------+
+22    1    hh
+23    1    is
+24    1    jj
+25    1    k
++------+---------+------+
+
+Rare Word
++------+---------+------+
+|Rank|Frequency|Word  |
++------+---------+------+
+44    1    vvb
+45    1    www
+46    1    yy
+47    1    yyy
++------+---------+------+
+
+-----------------------------------------------------------------------------------------
+total number of distinct letters= 25
+popular_threshold_letter= 2
+common_threshold_l_letter= 11
+common_threshold_u_letter= 14
+rare_threshold_letter= 23
+-----------------------------------------------------------------------------------------
+
+Popular Letters
++------+---------+------+
+|Rank|Frequency|Letter  |
++------+---------+------+
+1    32    e
+2    31    t
++------+---------+------+
+
+Common Letters
++------+---------+------+
+|Rank|Frequency|Letter  |
++------+---------+------+
+11    12    m
+12    11    y
+13    9    u
+14    8    d
++------+---------+------+
+
+Rare Letters
++------+---------+------+
+|Rank|Frequency|Letter  |
++------+---------+------+
+23    2    h
+24    2    j
+25    1    z
++------+---------+------+
